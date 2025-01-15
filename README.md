@@ -40,8 +40,8 @@ We welcome contributions! Please read the [Contributing Guide](doc/contributing.
 
 TODO's:
 
-[ ] - Make tests
-[ ] - Improve UI
+- [ ] Make tests
+- [ ] Improve UI
 
 ## License
 
